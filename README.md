@@ -1,6 +1,6 @@
 # Roll Dice
 
-A new Flutter project.
+A simple UI screen in which dice is rolled on button click.
 
 ## Screen
 <p float="left">
