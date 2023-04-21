@@ -1,8 +1,8 @@
-# roll_dice
+# Roll Dice
 
 A new Flutter project.
 
 ## Screen
 <p float="left">
-<img src="assets/images/SS.png" width="300" height="700" style="float:left; padding-right:100px">
+<img src="assets/images/SS.png" width="200" height="500" style="float:left; padding-right:100px">
 <p>
